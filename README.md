@@ -15,8 +15,6 @@ A hands-on penetration testing exercise performed in a self-built, fully isolate
 
 Both VMs were configured on a host-only network so that all traffic stayed fully contained to the lab — no exposure to the internet or any production network.
 
-![Lab network setup](screenshots/03-lab-network-setup.jpg)
-
 ## 1. Reconnaissance
 
 ### Host Discovery
